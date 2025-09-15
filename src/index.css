@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import 'tailwindcss';
+
+.font-inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+.NavCustom{
+  filter:drop-shadow(5px 5px 40px rgb(219, 219, 219))
+}
+.font-instrument{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+.font-inconsolata {
+  font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;  
+  scrollbar-width: none;   
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;           
+}
+

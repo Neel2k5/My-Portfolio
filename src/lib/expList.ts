@@ -8,9 +8,16 @@ export const expList: Experience[] = [
     date: "18 Aug 2025 - 24 Nov 2025",
   },
   {
+    position: "Web Development Intern",
+    org: "Pinnacle Labs",
+    desc: "Built a full-stack restaurant management system using React, TailwindCSS, Golang (Fiber), JWT auth, and PostgreSQL.",
+    date: "Aug 2025 - Sep 2025",
+  },
+  {
     position: "Frontend Developer",
     org: "Resourcio",
-    desc: "Working as a frontend developer at Resourcio, gaining hands-on experience with Next.js and Tailwind.",
-    date: "31 Aug 2025",
+    desc: "Worked as a frontend developer at Resourcio, gaining hands-on experience with Next.js and Tailwind.",
+    date: "31 Aug 2025 - Feb 2026",
   },
+  
 ];

@@ -63,10 +63,10 @@ const ExperiencePage = () => {
           <div
             className={`font-inter ${
               loaded ? `opacity-100 translate-0` : `opacity-0 -translate-y-20`
-            } transition-all duration-500 text-[20px] text-center text-[#7D7D7D] sm:w-[710px]`}
+            } transition-all font-light italic duration-500 text-[20px] text-center text-[#7D7D7D] sm:w-[710px]`}
           >
-            “Experience turns knowledge into wisdom. It teaches silently, yet
-            reveals truth deeply. Through it, understanding is realized.”
+            Experience turns knowledge into wisdom. It teaches silently, yet
+            reveals truth deeply. Through it, understanding is realized.
           </div>
 
           <button

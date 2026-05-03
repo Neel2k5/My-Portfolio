@@ -20,7 +20,7 @@ const PhilosophyPage = () => {
         </div>
       </div>
       <div 
-      className={`${loaded?`opacity-100 translate-0`:`opacity-0 -translate-x-20 `} transition-all duration-500 absolute top-65 sm:top-80 left-6 w-[380px] sm:w-[590px] text-wrap font-inter italic text-[#7D7D7D] font-semibold p-5`}>
+      className={`${loaded?`opacity-100 translate-0`:`opacity-0 -translate-x-20 `} transition-all duration-500 absolute top-65 sm:top-80 left-6 w-[380px] sm:w-[590px] text-wrap font-inter italic text-[#7D7D7D] font-light p-5`}>
         “ I believe the real beauty of software lives in its reliability.
         Interfaces may change, but systems last. My focus is on building
         foundations that are scalable, secure, and resilient quiet strengths
